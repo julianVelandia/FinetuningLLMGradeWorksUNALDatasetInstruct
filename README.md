@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a200c62f-b3d0-4c44-a956-f19f268fc543)
 
-This repository contains the process of fine-tuning the **Meta-Llama-3-8B** model using a custom dataset to improve its performance for specific instructions.
+This repository contains the process of fine-tuning the **Meta-Llama-3.2-1B** model using a custom dataset to improve its performance for specific instructions.
 
 ## Fine-Tuning Process
 
